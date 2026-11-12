@@ -1,8 +1,7 @@
-<<<<<<< HEAD
  Git helps track project history.
-=======
  Git makes teamwork easier.
->>>>>>> conflict-branch
  Git tracks changes in my files.
  Each commit saves a checkpoint. 
  This line was added on a feature branch to notes.txt.
+ This line was added in cloned repository.
+ 
